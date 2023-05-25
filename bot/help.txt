@@ -1,0 +1,4 @@
+😁 <text> to get gpt reply 😁
+😁 \lstm <text> to get lstm reply 😁
+😁 \change_param <param> <value> to change one model parameter 😁
+😁 \params show list of your model params 😁
